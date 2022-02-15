@@ -1,0 +1,11 @@
+https://githubprogramoffice-selfserviceportal-d.azurefd.net/
+
+http://githubprogramoffice-selfserviceportal-a.azurefd.net/
+
+https://githubprogramoffice-selfserviceportal-p.azurefd.net
+
+http://githubprogramoffice-selfserviceportal-p.azurefd.net
+githubprogramoffice.capgemini.com
+
+
+https://githubprogramoffice-apiapp-selfserviceportal-d.azurewebsites.net/api/auth/debug
